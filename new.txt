@@ -1,6 +1,0 @@
-random
-stuff
-in
-a
-new
-file
